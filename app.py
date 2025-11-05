@@ -1,3 +1,4 @@
+import streamlit as st; st.set_page_config(page_title="BenefitsBot UK – 60% faster Universal Credit")
 import streamlit as st
 st.set_page_config(page_title="BenefitsBot UK", layout="centered")
 st.title("🇬🇧 BenefitsBot UK")
